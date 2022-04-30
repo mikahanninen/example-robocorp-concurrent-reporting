@@ -25,7 +25,7 @@ be completed (this will mean that any following step 3 run will not start report
 
 ## Configuration
 
-As work item information is checked with RPA.Robocorp.Process library (meaning Robocorp Process API), we need 2 variables set into `workmanagement.resource` file.
+As work item information is checked with [RPA.Robocorp.Process](https://robocorp.com/docs/libraries/rpa-framework/rpa-robocorp-process) library (meaning Robocorp Process API), we need 2 variables set into `workmanagement.resource` file.
 
 The `${ACTIVITY_ID_STEP_2}` variable which is the identifier for step 2 of the process.
 The `${ACTIVITY_ID_STEP_3}` variable which is the identifier for step 3 of the process.
