@@ -1,7 +1,8 @@
 # Adding reporting step producer-consumer template
 
 This repository provides workaround when 2nd step (`Consumer`) is ran **concurrently** and the target is to do the reporting in the 3rd step.
-Control Room will be updated in the future which will make this kind of workaround as obsolete in the future.
+
+**note.** Control Room will be updated in the future which will make this kind of workaround as obsolete in the future.
 
 Based on the [producer-consumer template](https://robocorp.com/portal/robot/robocorp/template-producer-consumer).
 
